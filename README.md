@@ -10,3 +10,8 @@ DeepMind's Oct 19th publication: Mastering the Game of Go without Human Knowledg
 The great Reversi development of the DeepMind ideas that @mokemokechicken did in his repo: https://github.com/mokemokechicken/reversi-alpha-zero
 DeepMind just released a new version of AlphaGo Zero (named now AlphaZero) where they master chess from scratch: https://arxiv.org/pdf/1712.01815.pdf. In fact, in chess AlphaZero outperformed Stockfish after just 4 hours (300k steps) Wow!
 See the wiki for more details.
+
+#Environment
+Python 3.6.3
+tensorflow-gpu: 1.3.0
+Keras: 2.0.8
